@@ -1,2 +1,2 @@
-#MyMind
+# MyMind
 My personal website
